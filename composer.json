@@ -1,0 +1,17 @@
+{
+    "name": "govcms/installer",
+    "description": "Composer-based installer for the govCMS Drupal distribution",
+    "type": "project",
+    "license": "GPL-2.0+",
+    "authors": [
+        {
+            "name": "Joseph Zhao",
+            "email": "joseph.zhao@xing.net.au"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "extra": {
+        "enable-patching": true
+    }
+}
